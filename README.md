@@ -2,7 +2,7 @@
 
 News App Developed using Flutter.<br>
 <p>
-ApaceNews is a Fast,Minimal and Efficient News reading Application.<br>
+ApaceNews is a Fast,Minimal and Efficient News reading Application.<br><br>
 Features of ApaceNews:<br>
   1.) AmoledDark Theme.<br>
   2.) Different categories of News, with curated list of the categorised news under each category.<br>
