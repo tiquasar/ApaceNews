@@ -16,7 +16,7 @@ Features of ApaceNews:<br>
 3.)generic_release: https://github.com/tiquasar/ApaceNews/raw/master/APK-release/app-generic_release.apk (with all support packages.)<br>
 Other architecture links can be found in <a href="https://github.com/tiquasar/ApaceNews/tree/master/APK-release">Apk-release folder.</a><br><br>
  Generic Build Contains all architecture packages so it should work on all devices but the app can be little slow on low-resourced devices<br><br>
-<b>More Repositories by developer can be found here : https://github.com/tiquasar/</b><br>
+<b>More Repositories by the developer can be found here : https://github.com/tiquasar/</b><br>
 
 </p>
 
